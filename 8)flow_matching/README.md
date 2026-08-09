@@ -92,7 +92,7 @@ Generated images after 100 epochs of training :
 ![](images/fl_rand.png)
 Genrated flow trajectories for images after training : 
 
-7![](images/fl_traj.png)
+![](images/fl_traj.png)
 
 # Attention-mechanism
 
@@ -130,4 +130,8 @@ Q=K=V=X
 $$
 
 ## Results 
-# TO  DO 
+Generated images after training : 
+![](images/fl_att_rand.png)
+
+Trajectories: 
+![](images/fl_att_traj.png)
