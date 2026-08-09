@@ -1,6 +1,6 @@
 # Deep Learning
 
-This series of tasks is inspired by the [NPFL133 – Deep Learning](https://ufal.mff.cuni.cz/courses/npfl133) course and its associated assignments. The primary objective is to gain practical experience with the implementation of deep neural network architectures across a variety of machine learning tasks.
+This series of tasks is inspired by the [NPFL133 – Deep Learning](https://ufal.mff.cuni.cz/courses/npfl138/2526-summer) course and its associated assignments. The primary objective is to gain practical experience with the implementation of deep neural network architectures across a variety of machine learning tasks.
 
 ## Topics Covered
 
